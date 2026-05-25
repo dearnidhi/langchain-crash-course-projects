@@ -1,3 +1,4 @@
+watch Course here :- https://youtu.be/n0L_MfKeOh8?si=x04YViK9xfQlQyCb
 # LangChain Crash Course 🚀
 
 Complete LangChain Crash Course with 2 Real-World AI Projects using LangChain, LangGraph, ChromaDB, and Streamlit.
